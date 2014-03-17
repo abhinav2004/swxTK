@@ -9,5 +9,5 @@ To know more about wxWidgets, please visit <a href="http://www.wxwidgets.org">ht
 
 <h2>Where are the files??</h2>
 <p>
-As you can see this project is empty. I have moved the project to <a href="https://github.com/abhinav2004/swxTK-java">swxTK-java<a> and <a href="https://github.com/abhinav2004/swxTK-scala">swxTK-scala<a>
+As you can see this project is empty. I have moved the project to <a href="https://github.com/abhinav2004/swxTK-java">swxTK-java</a> and <a href="https://github.com/abhinav2004/swxTK-scala">swxTK-scala</a>
 </p>
